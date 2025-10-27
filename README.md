@@ -44,9 +44,9 @@ Copy code
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
-bash
+
 git clone https://github.com/77hari01/Real-vs-fakedeep-detection.git
-bash
+
 
 cd Real-vs-fakedeep-detection
 2️⃣ Install dependencies
