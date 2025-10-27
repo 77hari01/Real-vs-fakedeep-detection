@@ -47,7 +47,7 @@ Make sure you have Python 3.7 or higher installed on your system.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/77hari01/Real-vs-fakedeep-detection.git)
 cd deepfake-detection
 ```
 
@@ -69,8 +69,8 @@ Pillow==9.5.0
 
 Download the following files from the provided Google Drive links:
 
-1. **Dataset**: [Download Dataset](https://drive.google.com/file/d/1tLu_wrOkVFeGk9HhfUwaeAWfsdU3iJcw/view?usp=drive_link)
-2. **Pre-trained Model**: Available in the same drive link
+1. **Dataset**: [Download Dataset](https://drive.google.com/drive/folders/1hT8UAZf6SCJ0MXkntKx_BBCw30OxJ50k?usp=sharing)
+2. **Pre-trained Model**: [Download Dataset](https://drive.google.com/file/d/1tLu_wrOkVFeGk9HhfUwaeAWfsdU3iJcw/view?usp=drive_link)
 
 Extract the dataset to the `Dataset/` directory and place the model file (.h5) in the project root.
 
@@ -131,8 +131,8 @@ The dataset contains:
 - Balanced distribution for fair training
 - 80/20 train-test split
 
-**model Link**: [Google Drive](https://drive.google.com/file/d/1tLu_wrOkVFeGk9HhfUwaeAWfsdU3iJcw/view?usp=drive_link)
-**Dataset Link**: [Google Drive](https://drive.google.com/drive/folders/1hT8UAZf6SCJ0MXkntKx_BBCw30OxJ50k?usp=sharing)
+- **model Link**: [Google Drive](https://drive.google.com/file/d/1tLu_wrOkVFeGk9HhfUwaeAWfsdU3iJcw/view?usp=drive_link)
+- **Dataset Link**: [Google Drive](https://drive.google.com/drive/folders/1hT8UAZf6SCJ0MXkntKx_BBCw30OxJ50k?usp=sharing)
 
 ## 🔧 Configuration
 
