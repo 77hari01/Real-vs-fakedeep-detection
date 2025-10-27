@@ -1,0 +1,7 @@
+streamlit==1.25.0
+tensorflow==2.18.0
+numpy==1.26.0
+Pillow==9.5.0
+
+model:
+link : https://drive.google.com/file/d/1tLu_wrOkVFeGk9HhfUwaeAWfsdU3iJcw/view?usp=drive_link
